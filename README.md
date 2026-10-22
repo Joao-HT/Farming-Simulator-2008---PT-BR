@@ -2,7 +2,7 @@
 Tradução para PT-BR feita por João.H.T
 GitHub: https://github.com/Joao-HT
 Discord: joao.h.t
-Não é necessária a senha da pasta sources.zip. uma fonte de macarrão substitui ela.
+Não é necessária a senha da pasta sources.zip. a pasta "sources" substitui ela.
 
 :)
 
