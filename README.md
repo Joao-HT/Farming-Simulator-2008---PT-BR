@@ -2,7 +2,6 @@
 Tradução para PT-BR feita por João.H.T
 GitHub: https://github.com/Joao-HT
 Discord: joao.h.t
-Não é necessária a senha da pasta sources.zip. a pasta "sources" substitui ela.
 
 :)
 
@@ -18,8 +17,6 @@ ENGLISH:
 PT-BR translation by Joao.H.T
 GitHub: https://github.com/Joao-HT
 Discord: joao.h.t
-No password is required for the `sources.zip` folder; it has been replaced by an uncompressed version.
-
 :)
 
 Some characters are not supported by the game, so you will see words without accent marks.
