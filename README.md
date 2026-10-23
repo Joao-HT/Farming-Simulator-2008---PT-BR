@@ -18,6 +18,7 @@ ENGLISH:
 PT-BR translation by Joao.H.T
 GitHub: https://github.com/Joao-HT
 Discord: joao.h.t
+
 :)
 
 Some characters are not supported by the game, so you will see words without accent marks.
