@@ -5,12 +5,13 @@ Discord: joao.h.t
 
 :)
 
-Alguns caracteres não são suportados pelo jogo, então você verá palavras sem acentos.
 Essa é uma modificação do Farming Simulator 2008 com tradução em PT-BR.
-OBS: o jogo não suporta certos caracteres, como "ç", "é" ou "ã". Então você verá textos sem acentuação.
+O jogo não suporta certos caracteres, como "ç", "é" ou "ã". Então você verá textos sem acentuação.
 
+Instalação:
 Cole o conteúdo dessa pasta nos arquivos do jogo já instalado, e selecione "Substituir todos".
-Por motivos de direitos autorais, não disponibilizarei o instalador ou a ISO do jogo, apenas os arquivos da modificação.
+
+Obs: Por motivos de direitos autorais, não disponibilizarei o instalador ou a ISO do jogo, apenas os arquivos da modificação. 
 Feito/traduzido por: Joao.H.T
 
 ENGLISH:
@@ -21,10 +22,10 @@ Discord: joao.h.t
 
 :)
 
-Some characters are not supported by the game, so you will see words without accent marks.
-This is a modification for Farming Simulator 2008 that provides a PT-BR (Brazilian Portuguese) translation.
-NOTE: The game does not support certain characters, such as "ç", "é", or "ã". Consequently, some text will appear without accent marks.
+This is a modification for Farming Simulator 2008 that provides a Brazilian Portuguese translation.
+The game does not support certain characters, such as "ç", "é", or "ã"; so you will see text without diacritics (accents). 
 
-Copy the contents of this folder into your installed game directory and select "Replace all."
-Due to copyright reasons, I will not be providing the game's installer or ISO file—only the files for the modification.
+Installation: Copy the contents of this folder into your existing game installation directory and select "Replace all." 
+
+Note: Due to copyright reasons, I will not be providing the game installer or the ISO file—only the translation files.
 Made/translated by: Joao.H.T
